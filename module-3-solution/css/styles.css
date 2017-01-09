@@ -1,9 +1,20 @@
 body {
     padding-top: 70px;
+    height: 100%;
+    position: relative;
+}
+
+html {
+    height: 100%;
 }
 
 footer {
     margin-top: 30px;
+}
+
+#top {
+    height: 100%;
+    margin-bottom: 30px;
 }
 
 .panel {
@@ -11,6 +22,7 @@ footer {
     background-color: silver;
     color: black;
     margin-bottom: 0px;
+    bottom: 0px !important;
 }
 
 .text-content {

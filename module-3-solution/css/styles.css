@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+.panel {
+    border-radius: 0px;
+    background-color: silver;
+    color: black;
+}
+
+.text-content {
+    background-color: silver;
+    padding: 5px 10px 5px 10px;
+    margin-top: 20px;
+}
+
+.navbar-default {
+    background-color: silver;
+    border-bottom: 1px solid black;
+}
+
+.navbar .navbar-brand {
+    color: black;
+}
